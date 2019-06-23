@@ -27,7 +27,7 @@ $ pip install pytest-joke
 When the plugin is installed, every time a test run results in a failure, the terminal would output a random joke in an attempt to cheer you up.
 
 ```bash
-Humor-powered output enabled.
+Humor-powered output enabled 😃.
 
 plugins: mock-1.10.4, joke-0.1.0
 collected 2 items
