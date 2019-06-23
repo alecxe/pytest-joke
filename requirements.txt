@@ -1,3 +1,4 @@
 pyjokes==0.5.0
 pytest
 pytest-mock
+tox
