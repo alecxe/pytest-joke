@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/alecxe/pytest-joke.svg?branch=master)](https://travis-ci.org/alecxe/pytest-joke)
 [![Requirements Status](https://requires.io/github/alecxe/pytest-joke/requirements.svg?branch=master)](https://requires.io/github/alecxe/pytest-joke/requirements/?branch=master)
+[![Pyversions](https://img.shields.io/pypi/pyversions/pytest-joke.svg)](https://pypi.python.org/pypi/pytest-joke)
+[![PyPI](https://img.shields.io/pypi/v/pytest-joke.svg)](https://pypi.python.org/pypi/pytest-joke)
 
 Running tests is better with some healthy (or not) amount or humor! 😃
 
