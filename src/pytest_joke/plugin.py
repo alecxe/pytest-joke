@@ -2,7 +2,7 @@ from pyjokes import pyjokes
 
 
 def pytest_report_header():
-    return "Humor-powered output enabled.\n"
+    return u"Humor-powered output enabled 😃.\n"
 
 
 def pytest_terminal_summary(terminalreporter, exitstatus, config):

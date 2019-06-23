@@ -4,13 +4,13 @@ import pyjokes
 def test_header_passing(passing_test):
     result = passing_test.runpytest()
 
-    result.stdout.fnmatch_lines(["Humor-powered output enabled."])
+    result.stdout.fnmatch_lines(["Humor-powered output enabled 😃."])
 
 
 def test_header_failing(failing_test):
     result = failing_test.runpytest()
 
-    result.stdout.fnmatch_lines(["Humor-powered output enabled."])
+    result.stdout.fnmatch_lines(["Humor-powered output enabled 😃."])
 
 
 def test_joke(failing_test, mocker):

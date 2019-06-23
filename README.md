@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/alecxe/pytest-joke.svg?branch=master)](https://travis-ci.org/alecxe/pytest-joke)
 [![Requirements Status](https://requires.io/github/alecxe/pytest-joke/requirements.svg?branch=master)](https://requires.io/github/alecxe/pytest-joke/requirements/?branch=master)
 
-Running tests is better with some healthy (or not) amount or humor!
+Running tests is better with some healthy (or not) amount or humor! 😃
 
 This is a completely useless plugin created to get some practice in creating plugins for Pytest.
 
@@ -11,7 +11,7 @@ Powered by [pyjokes][pyjokes].
 
 [pyjokes]: https://pyjok.es/
 
-## Installation
+## Installation 🐍
 
 You can install **pytest-joke** via [pip][pip] from [PyPI][PyPI]:
 
@@ -50,7 +50,6 @@ There are two ways to write error-free programs; only the third one works.
 ## TODO
 
  * make the plugin configurable: turn on/off, language, joke category, number of jokes
- * a few emojis to the output
 
 ## License
 

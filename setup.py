@@ -13,7 +13,7 @@ setup(
     version='0.1.0',
     license='MIT',
 
-    description='Test failures are better served with humour.',
+    description='Test failures are better served with humor.',
     long_description=read("README.md"),
 
     author='Alexander Afanasyev',
@@ -50,5 +50,5 @@ setup(
         "Operating System :: OS Independent",
         "License :: OSI Approved :: MIT License",
     ],
-    keywords=["pytest", "joke", "humour"]
+    keywords=["pytest", "joke", "humor", "humour"]
 )
