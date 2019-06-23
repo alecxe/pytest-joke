@@ -1,8 +1,14 @@
 # pytest-joke
 
+[![Build Status](https://travis-ci.org/alecxe/pytest-joke.svg?branch=master)](https://travis-ci.org/alecxe/pytest-joke)
+
 Running tests is better with some healthy (or not) amount or humor!
 
 This is a completely useless plugin created to get some practice in creating plugins for Pytest.
+
+Powered by [pyjokes][pyjokes].
+
+[pyjokes]: https://pyjok.es/
 
 ## Installation
 
@@ -20,7 +26,8 @@ $ pip install pytest-joke
 When the plugin is installed, every time a test run results in a failure, the terminal would output a random joke in an attempt to cheer you up.
 
 ```bash
-Humor-powered output.
+Humor-powered output enabled.
+
 plugins: mock-1.10.4, joke-0.1.0
 collected 2 items
 
@@ -41,7 +48,7 @@ There are two ways to write error-free programs; only the third one works.
 
 ## TODO
 
- * make the plugin configurable: turn on/off, language, joke category
+ * make the plugin configurable: turn on/off, language, joke category, number of jokes
  * a few emojis to the output
 
 ## License
