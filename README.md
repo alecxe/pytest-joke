@@ -1,6 +1,7 @@
 # pytest-joke
 
 [![Build Status](https://travis-ci.org/alecxe/pytest-joke.svg?branch=master)](https://travis-ci.org/alecxe/pytest-joke)
+[![Requirements Status](https://requires.io/github/alecxe/pytest-joke/requirements.svg?branch=master)](https://requires.io/github/alecxe/pytest-joke/requirements/?branch=master)
 
 Running tests is better with some healthy (or not) amount or humor!
 
