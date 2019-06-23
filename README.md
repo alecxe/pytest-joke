@@ -9,9 +9,10 @@ Running tests is better with some healthy (or not) amount or humor! 😃
 
 This is a completely useless plugin created to get some practice in creating plugins for Pytest.
 
-Powered by [pyjokes][pyjokes].
+Powered by [pyjokes][pyjokes]. 
 
 [pyjokes]: https://pyjok.es/
+
 
 ## Installation 🐍
 
@@ -59,3 +60,7 @@ Distributed under the terms of the [MIT][mit] license, **pytest-joke** is
 free and open source software.
 
 [mit]: http://opensource.org/licenses/MIT
+
+## Motivation
+
+[![](https://pybit.es/images/pytest-book-poster.png)](https://pybit.es/pytest-book.html)
