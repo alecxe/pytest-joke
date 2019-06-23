@@ -14,7 +14,7 @@ setup(
     license='MIT',
 
     description='Test failures are better served with humor.',
-    long_description=read("README.md"),
+    long_description=read("README.rst"),
 
     author='Alexander Afanasyev',
     author_email='me@alecxe.me',
