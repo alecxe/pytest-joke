@@ -15,6 +15,7 @@ setup(
 
     description='Test failures are better served with humor.',
     long_description=read("README.md"),
+    long_description_content_type='text/markdown',
 
     author='Alexander Afanasyev',
     author_email='me@alecxe.me',
