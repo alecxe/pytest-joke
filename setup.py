@@ -10,7 +10,7 @@ def read(*args):
 
 setup(
     name="pytest-joke",
-    version='0.1.0',
+    version='0.1.1',
     license='MIT',
 
     description='Test failures are better served with humor.',
@@ -31,7 +31,7 @@ setup(
     python_requires=">=3.4",
     install_requires=[
         "pytest>=4.2.1",
-        "pyjokes>=0.5.0"
+        "pyjokes>=0.6.0"
     ],
 
     entry_points={"pytest11": ["joke = pytest_joke.plugin"]},
