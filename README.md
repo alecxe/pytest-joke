@@ -63,4 +63,4 @@ free and open source software.
 
 ## Motivation
 
-[![](https://pybit.es/images/pytest-book-poster.png)](https://pybit.es/pytest-book.html)
+[![](https://pybit.es/wp-content/uploads/2021/05/pytest-book-poster.png)](https://pybit.es/articles/pytest-book/)
