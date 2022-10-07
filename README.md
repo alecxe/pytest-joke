@@ -7,7 +7,7 @@
 
 Running tests is better with some healthy (or not) amount or humor! 😃
 
-This is a completely useless plugin created to get some practice in creating plugins for Pytest.
+This is a completely useless plugin created to get some practice in creating plugins for [Pytest](https://www.interviewbit.com/robot-framework-interview-questions).
 
 Powered by [pyjokes][pyjokes]. 
 
